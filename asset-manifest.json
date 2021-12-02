@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f8134f6.chunk.css",
+    "main.js": "/static/js/main.0e1326a6.chunk.js",
+    "main.js.map": "/static/js/main.0e1326a6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cb0d6fbb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cb0d6fbb.js.map",
+    "static/js/2.2429a003.chunk.js": "/static/js/2.2429a003.chunk.js",
+    "static/js/2.2429a003.chunk.js.map": "/static/js/2.2429a003.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3f8134f6.chunk.css.map": "/static/css/main.3f8134f6.chunk.css.map",
+    "static/js/2.2429a003.chunk.js.LICENSE.txt": "/static/js/2.2429a003.chunk.js.LICENSE.txt",
+    "static/media/channel-img.472f4267.png": "/static/media/channel-img.472f4267.png",
+    "static/media/channel-video.f3870742.png": "/static/media/channel-video.f3870742.png",
+    "static/media/channeluserimg.6bb5235d.png": "/static/media/channeluserimg.6bb5235d.png",
+    "static/media/ham_menu.d6d7095e.svg": "/static/media/ham_menu.d6d7095e.svg",
+    "static/media/Header.scss": "/static/media/search_icon.ad106675.svg",
+    "static/media/youtube_logo.c4107130.svg": "/static/media/youtube_logo.c4107130.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb0d6fbb.js",
+    "static/js/2.2429a003.chunk.js",
+    "static/css/main.3f8134f6.chunk.css",
+    "static/js/main.0e1326a6.chunk.js"
+  ]
+}
